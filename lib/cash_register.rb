@@ -12,7 +12,7 @@ class CashRegister
       @total-=discount.to_i*10
       "After the discount, the total comes to $#{@total}."
     else
-      
+      "There is no discount to apply."
   end
   # def total
   #   @total
