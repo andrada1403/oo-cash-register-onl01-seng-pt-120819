@@ -15,8 +15,8 @@ class CashRegister
       "There is no discount to apply."
     end
   end
-  def items(products)
-    
+  def items
+
   end
   # def total
   #   @total
