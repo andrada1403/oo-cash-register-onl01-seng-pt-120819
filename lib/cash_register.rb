@@ -17,12 +17,6 @@ class CashRegister
   end
   def items
     all_items=[]
-    
+
   end
-  # def total
-  #   @total
-  # end
-  # def total=(total)
-  #   @total=total
-  # end
 end
