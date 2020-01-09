@@ -16,7 +16,8 @@ class CashRegister
     end
   end
   def items
-
+    all_items=[]
+    
   end
   # def total
   #   @total
