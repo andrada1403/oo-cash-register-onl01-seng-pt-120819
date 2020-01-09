@@ -17,6 +17,5 @@ class CashRegister
   end
   def items
     all_items=[]
-    all_items<<self.add_item
   end
 end
