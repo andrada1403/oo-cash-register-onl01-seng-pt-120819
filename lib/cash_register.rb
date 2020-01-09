@@ -9,6 +9,7 @@ class CashRegister
   end
   def apply_discount
     @total-=discount.to_i*10
+    
   end
   # def total
   #   @total
